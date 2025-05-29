@@ -1,0 +1,28 @@
+{
+  "name": "agentuity-chat",
+  "version": "0.0.1",
+  "description": "AI Chatbot with AI SDK and Agentuity",
+  "keywords": [
+    "ai",
+    "agentuity"
+  ],
+  "homepage": "https://github.com/nnance/agentuity-chat#readme",
+  "bugs": {
+    "url": "https://github.com/nnance/agentuity-chat/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnance/agentuity-chat.git"
+  },
+  "license": "MIT",
+  "author": "Nick Nance",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "workspaces": [
+    "apps/chat-web",
+    "apps/chat-agents"
+  ]
+}
