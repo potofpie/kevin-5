@@ -6,6 +6,8 @@ Agentuity Chat is a web application that allows users to interact with an AI age
 
 It uses the Vercel AI SDK to generate responses from the AI agent, and it includes features such as:
 
+
+
 - Message history
 - Easily swap AI models and providers with a single line of code
 - Lightweight and extensible UI
