@@ -26,6 +26,7 @@ It uses the Vercel AI SDK to generate responses from the AI agent, and it includ
 
 
 
+
 - Message history
 - Easily swap AI models and providers with a single line of code
 - Lightweight and extensible UI
