@@ -9,6 +9,7 @@ bobby test test
 
 
 
+
 Agentuity Chat is a web application that allows users to interact with an AI agent. The application is built using Next.js, TypeScript, and Tailwind CSS, and it provides a user-friendly interface for chatting with the AI.
 
 It uses the Vercel AI SDK to generate responses from the AI agent, and it includes features such as:
